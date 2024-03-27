@@ -2,7 +2,7 @@
 
 Created for my CM12004: Discrete Maths and Databases unit at university and was awarded 83%. 
 
-## Usage
+## Features
 
 CLI to interact with an SQL database for an airline company with CRUD operations and ability to view summary statistics such as:
 - Rank upcoming flights by percentage of used up seats
